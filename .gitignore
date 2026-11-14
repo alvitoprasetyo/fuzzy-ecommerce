@@ -1,0 +1,9 @@
+# Ignore all CSV files in data folder
+data/*.csv
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
